@@ -1,14 +1,21 @@
-# Welcome to Chainlit! 🚀🤖
 
-Hi there, Developer! 👋 We're excited to have you on board. Chainlit is a powerful tool designed to help you prototype, debug and share applications built on top of LLMs.
+# 🌦️ Wiz WEATHER
 
-## Useful Links 🔗
+Wiz WEATHER is a friendly and expert-level weather assistant built using Chainlit and Gemini.
 
-- **Documentation:** Get started with our comprehensive [Chainlit Documentation](https://docs.chainlit.io) 📚
-- **Discord Community:** Join our friendly [Chainlit Discord](https://discord.gg/k73SQ3FyUh) to ask questions, share your projects, and connect with other developers! 💬
+It can:
+- Fetch live weather updates for any location
+- Answer questions about weather patterns and climate change
+- Use tools to explain weather science interactively
 
-We can't wait to see what you create with Chainlit! Happy coding! 💻😊
+It cannot:
+- Answer unrelated or off-topic questions
 
-## Welcome screen
+Start chatting by asking:
+- “What's the weather in Karachi?”
+- “How do heatwaves form?”
+- “Why are monsoons getting stronger?”
 
-To modify the welcome screen, edit the `chainlit.md` file at the root of your project. If you do not want a welcome screen, just leave this file empty.
+---
+
+**Built by** Kulsoom Imran
