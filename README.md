@@ -12,7 +12,7 @@ It’s built using:
 
 ## 🌐 Live Demo
 
-🚀 Try Wiz WEATHER here: [https://wizweather.yourdomain.com](https://wizweather.yourdomain.com)
+🚀 Try Wiz WEATHER here: [https://wizweather.up.railway.app/](https://wizweather.up.railway.app/)
 
 ---
 
